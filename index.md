@@ -7,6 +7,7 @@ This site is provisional and may change as ideas develop.
 ## Table of Contents
 
 [Eights System](/eights-system/index.md)
+- [Introduction](/eights-system/eights-intro.md)
 
 [Ourob Library](/ourob-library/index.md)
 
