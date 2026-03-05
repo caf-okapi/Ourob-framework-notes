@@ -8,7 +8,7 @@ This site is provisional and may change as ideas develop.
 
 ## Notes
 
-The Ourob framework is designed to be a rational and comprehensive framework for the pursuit of personal security and happiness, with a focus on behavior and personality. It is written from the perspective of various characters who will introduce and discuss the different topics.
+The Ourob Framework is designed to be a rational and comprehensive framework for the pursuit of personal security and happiness, with a focus on behavior and personality. It is written from the perspective of various characters who will introduce and discuss the different topics.
 
 ## Table of Contents
 
