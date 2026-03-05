@@ -6,8 +6,11 @@ This site is provisional and may change as ideas develop.
 
 ## Table of Contents
 
+[Introduction](/eights-intro.md)
+
+[Ourob Fantasy](/ourob-fantasy/index.md)
+
 [Eights System](/eights-system/index.md)
-- [Introduction](/eights-system/eights-intro.md)
 
 [Ourob Library](/ourob-library/index.md)
 
