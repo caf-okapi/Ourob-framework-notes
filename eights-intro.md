@@ -18,7 +18,7 @@ In the meantime, though, keep this in mind: your personal security and happiness
 
 So! It's time for you to meet with everyone else and get on you way!
 
-And, *Why is it called the 'Ourob Framework'* you ask? We'll get to that later.
+And, *why is it called the 'Ourob Framework'* you ask? We'll get to that later.
 
 Now, say hello to the rest of everyone for me!
 
