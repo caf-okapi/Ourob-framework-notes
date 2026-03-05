@@ -1,3 +1,3 @@
-# AG-PNGI
+# AG-PNGI Notes
 
-[AG-PNGI](https://github.com/caf-okapi/ag-pngi-notes.git)
+A link to the [AG-PNGI](https://github.com/caf-okapi/ag-pngi-notes.git) notes repository
