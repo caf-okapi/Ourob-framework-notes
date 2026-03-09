@@ -6,6 +6,10 @@
 
 ## C
 
+*Catalyst Music -*
+
+*Conscious-brain (C-brain) -*
+
 ## D
 
 ## E
@@ -32,11 +36,15 @@
 
 *Inner-Monologue -*
 
+*Involuntary-Brain (I-brain) -*
+
 ## J
 
 ## K
 
 ## L
+
+*Lie, Lying -*
 
 ## M
 
@@ -51,6 +59,14 @@
 *Normalization -*
 
 ## O
+
+*Ourob -*
+
+*Ourob Egg -*
+
+*Ourob Fantasy -*
+
+*Ourob Nesting Grounds -*
 
 ## P
 
