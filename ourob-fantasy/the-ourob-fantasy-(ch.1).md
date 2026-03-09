@@ -19,3 +19,13 @@ You presume from the spread and distribution of vines that you'd happened to com
 You turn back to the forest.
 
 As things stand now, though, there is nothing more to see with the trees in your way—so you resolve to find your way through this forest, and to explore whatever lies on the insides of this mysterious place.
+
+## *Another's*
+
+You make your way through the forest for some moderate amount of time, pushing foliage and tree branches to the side. That's easy enough, but you certainly notice that something feels a little off here.
+
+Things are feeling a little bit... mystical—or rather "more than natural", perhaps—and you continue to feel that as you move through. Golden motes seem to flicker into the air then quickly fade whenever your leg brushes by something, like the branch of a bush or a leaf. Though you seem to only be able to notice this out of the corners of your eyes and not when you look directly.
+
+And the whole place feels full of life too, somehow, though you believe you've yet to notice anything like a bug or the sounds of any wildlife.
+
+You proceed along your way, when you stumble into an unexpected clearing.
