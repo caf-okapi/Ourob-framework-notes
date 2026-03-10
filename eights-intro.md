@@ -4,7 +4,7 @@ Hello! Welcome to the Ourob Framework! My name is Eights Ourophoen, and this is 
 
 To start with: this framework is designed with one main and primary *purpose* in mind—to be a comprehensive document (more or less) for the pursuit and maximization of personal happiness and security. (At least so far as is achievable, I suppose.)
 
-You can think of this framework as many things: as a guidebook, as a game (which it’s definitely designed to be—you’ll see later…), a library, a manual… 
+You can think of this framework as many things: as a guidebook, as a game (which it’s definitely designed to be—you’ll see later…), a library, a manual, an encyclopedia… 
 
 Is it all of those? Is it none of those?—
 
