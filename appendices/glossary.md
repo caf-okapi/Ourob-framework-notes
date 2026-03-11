@@ -48,7 +48,7 @@
 
 *I-Brain Poison -*
 
-*Inner-Monologue -*
+*Inner Monologue, Inner Voice -*
 
 *Inspiration -*
 
