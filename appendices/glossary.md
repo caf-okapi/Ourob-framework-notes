@@ -16,6 +16,10 @@
 
 *Eights Key -*
 
+*Emotion -*
+
+*Empathy -*
+
 *Entwining -*
 
 *Environment -*
@@ -28,13 +32,25 @@
 
 *Flow -*
 
+*Frustration -*
+
 ## G
+
+*Gratitude -*
+
+*Gratitude/Love/Pride (G/l/p) -*
 
 ## H
 
+*Humor -*
+
 ## I
 
+*I-Brain Poison -*
+
 *Inner-Monologue -*
+
+*Inspiration -*
 
 *Involuntary-Brain (I-brain) -*
 
@@ -46,6 +62,10 @@
 
 *Lie, Lying -*
 
+*Life-partner -*
+
+*Love -*
+
 ## M
 
 *Meditation -*
@@ -55,6 +75,8 @@
 *Normal -*
 
 *Normal-Flow -*
+
+*Normal Line -*
 
 *Normalization -*
 
@@ -68,7 +90,15 @@
 
 *Ourob Nesting Grounds -*
 
+*Ourob Personality -*
+
+*Ourob Weapons -*
+
 ## P
+
+*Personality -*
+
+*Personalized Ourob System -*
 
 *Pillar I (Environment) -*
 
@@ -86,21 +116,37 @@
 
 *Pillar VIII () -*
 
+*Pride -*
+
 ## Q
+
+*Quality Personality -*
 
 ## R
 
+*Reminder -*
+
+*Reminder Line -*
+
 ## S
+
+*Simulation Partner -*
+
+*Survivability -*
 
 ## T
 
 *Tangibility -*
+
+*True-Partner -*
 
 ## U
 
 ## V
 
 ## W
+
+*Winner Personalities (I, II) -*
 
 ## X
 
