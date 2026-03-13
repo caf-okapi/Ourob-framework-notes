@@ -82,11 +82,15 @@
 
 ## O
 
+*Ouriophi's Wish -*
+
 *Ourob -*
 
 *Ourob Egg -*
 
 *Ourob Fantasy -*
+
+*Ourob Goddess -*
 
 *Ourob Nesting Grounds -*
 
