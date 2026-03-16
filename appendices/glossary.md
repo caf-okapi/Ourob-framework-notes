@@ -32,6 +32,8 @@
 
 *Flow -*
 
+*Forgiveness -*
+
 *Frustration -*
 
 ## G
@@ -149,6 +151,8 @@
 ## V
 
 ## W
+
+*Weapons - see: [Ourob Weapons]()*
 
 *Winner Personalities (I, II) -*
 
