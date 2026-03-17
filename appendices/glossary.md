@@ -156,7 +156,7 @@
 
 ## W
 
-*Weapons - see: [Ourob Weapons](#ourob-weapons)*
+*Weapons - see: "[Ourob Weapons](#ourob-weapons)"*
 
 *Winner Personalities (I, II) -*
 
