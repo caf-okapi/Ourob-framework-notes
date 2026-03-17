@@ -98,7 +98,7 @@
 
 *Ourob Personality -*
 
-*Ourob Weapons -*
+<a name="ourob-weapons"></a>*Ourob Weapons -*
 
 ## P
 
@@ -152,7 +152,7 @@
 
 ## W
 
-*Weapons - see: [Ourob Weapons]()*
+*Weapons - see: [Ourob Weapons](#ourob-weapons)*
 
 *Winner Personalities (I, II) -*
 
