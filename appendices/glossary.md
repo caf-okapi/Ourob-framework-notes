@@ -38,6 +38,10 @@
 
 ## G
 
+*Ghost Powers -*
+
+*G/l/p-esque Weapons -*
+
 *Gratitude -*
 
 *Gratitude/Love/Pride (G/l/p) -*
