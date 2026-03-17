@@ -158,6 +158,10 @@
 
 ## V
 
+*Visual Imagination -*
+
+*Visualization -*
+
 ## W
 
 *Weapons - see: "[Ourob Weapons](#ourob-weapons)"*
