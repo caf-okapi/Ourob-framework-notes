@@ -20,7 +20,7 @@ You turn back to the forest.
 
 As things stand now, though, there is nothing more to see with the trees in your way—so you resolve to find your way through this forest, and to explore whatever lies on the insides of this mysterious place.
 
-## *Another's*
+## *Another's E--*
 
 You make your way through the forest for some moderate amount of time, pushing foliage and tree branches to the side. That's easy enough, but you certainly notice that something feels a little off here.
 
