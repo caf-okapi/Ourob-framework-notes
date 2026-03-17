@@ -8,7 +8,7 @@
 
 *Catalyst Music -*
 
-*Conscious-brain (C-brain) -*
+*Conscious-Brain (C-Brain) -*
 
 ## D
 
@@ -50,11 +50,13 @@
 
 *I-Brain Poison -*
 
-*Inner Monologue, Inner Voice -*
+*Inner Monologue -*
+
+*Inner Voice -*
 
 *Inspiration -*
 
-*Involuntary-Brain (I-brain) -*
+*Involuntary-Brain (I-Brain) -*
 
 ## J
 
@@ -62,11 +64,13 @@
 
 ## L
 
-*Lie, Lying -*
+*Lie -*
 
 *Life-partner -*
 
 *Love -*
+
+*Lying -*
 
 ## M
 
