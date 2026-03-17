@@ -16,6 +16,8 @@
 
 *Eights Key -*
 
+*Emergency Reminder Line (E. Reminder Line) -*
+
 *Emotion -*
 
 *Empathy -*
