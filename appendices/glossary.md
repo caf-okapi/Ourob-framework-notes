@@ -40,6 +40,8 @@
 
 *Frustration -*
 
+*Future Partner -*
+
 ## G
 
 *Ghost Powers -*
