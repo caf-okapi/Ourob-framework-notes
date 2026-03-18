@@ -38,4 +38,12 @@ This egg is definitely the biggest one you've ever seen — much bigger than eve
 
 A bubbling stream of water is pouring out from the rock and into the pool.
 
-The shell of the egg is patterned with many different colors and designs — 
+The shell of the egg is patterned with many different colors and designs — from here you can see primarily green flecks of different sizes, and thin spiral of gold on the lower-side surface of the egg, towards the rock. Both on the bright background of the shell.
+
+And though the surface of the shell appears to be complpetely solid, you feel like you can almost see a warm, soft glow in its core.
+
+The egg, just like this place, is definitely beautiful, but you feel no desire to pick it up. In fact, it somehow feels like not quite the right thing to do.
+
+You move on.
+
+It's not long after this before you reach the forest border.
