@@ -29,3 +29,13 @@ Things are feeling a little bit... mystical—or rather, "more than natural", pe
 And the whole place feels full of life too, somehow, though you believe you've yet to notice anything like a bug or the sounds of any wildlife.
 
 You proceed along your way, when you stumble into an unexpected clearing.
+
+The clearing doesn't seem all that wide. The trees are a bit sparse in the area, and at the center of it you see a small pool of water. What is much more attention-grabbing, though, is the massive egg sitting right at its edge.
+
+You move closer.
+
+This egg is definitely the biggest one you've ever seen — much bigger than even an ostrich egg, as far as you can tell. The base of it is resting shallowly in the water by the base of the pool, and it's leaning against a rock.
+
+A bubbling stream of water is pouring out from the rock and into the pool.
+
+The shell of the egg is patterned with many different colors and designs — 
