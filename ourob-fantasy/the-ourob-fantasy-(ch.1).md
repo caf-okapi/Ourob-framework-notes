@@ -40,7 +40,7 @@ A bubbling stream of water is pouring out from the rock and into the pool.
 
 The shell of the egg is patterned with many different colors and designs — from here you can see primarily green flecks of different sizes, and thin spiral of gold on the lower-side surface of the egg, towards the rock. Both on the bright background of the shell.
 
-And though the surface of the shell appears to be complpetely solid, you feel like you can almost see a warm, soft glow in its core.
+And though the surface of the shell appears to be completely solid, you feel like you can almost see a warm, soft glow in its core.
 
 The egg, just like this place, is definitely beautiful, but you feel no desire to pick it up. In fact, it somehow feels like not quite the right thing to do.
 
@@ -50,7 +50,7 @@ It's not long after this before you reach the forest border.
 
 Breaking through the edge of the trees, you find that ahead of you seems to be a vantage point that will allow you to have a look over the island. So you approach.
 
-Peering out over the edge, the view is fairly good and you feel like you can see most of the isalnd from here, besides whatever is hidden behind the mountain.
+Peering out over the edge, the view is fairly good and you feel like you can see most of the island from here, besides whatever is hidden behind the mountain.
 
 In fact, from here you can see over to the far edge of the island.
 
@@ -62,9 +62,9 @@ What has your attention more enraptured at the moment, however, is down below. T
 
 Scattered all across it are different biomes, transitioning sharply from one to another at the borders, although still feeling perfectly natural. Over there you see what looks to be a desert. And near it is a deeply tree covered jungle. Further along to the side, a few biomes down, appears to be an icy tundra. And there are many others, including those you do recognize, those you don't, and some that don't seem to make any sense at all.
 
-Behind the mountain, and peeking out just a bit to the side whwere you can see, there seems to be quite a dark region — though the mountain isn't casting a shadow over it — and you feel you can occasionally catch a glimmer of something shimmering like a star in the night sky.
+Behind the mountain, and peeking out just a bit to the side where you can see, there seems to be quite a dark region — though the mountain isn't casting a shadow over it — and you feel you can occasionally catch a glimmer of something shimmering like a star in the night sky.
 
-As you look around at all of this, one thing becomes clear: on this whole island, the one thing that stands out as the most unique and prmonent is the mountain. You have the impression that just journeying around through the different regions, you would likely meet with much similar results to your trek trhough the forest.
+As you look around at all of this, one thing becomes clear: on this whole island, the one thing that stands out as the most unique and prominent is the mountain. You have the impression that just journeying around through the different regions, you would likely meet with much similar results to your trek through the forest.
 
 Perhaps if you climb that mountain, you could find some answers as to just what this place is?
 
