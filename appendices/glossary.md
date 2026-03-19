@@ -4,6 +4,8 @@
 
 ## B
 
+*Biome -*
+
 ## C
 
 *Catalyst Music -*
@@ -161,6 +163,8 @@
 *Survivability -*
 
 ## T
+
+*Tangible Action -*
 
 *Tangibility -*
 
