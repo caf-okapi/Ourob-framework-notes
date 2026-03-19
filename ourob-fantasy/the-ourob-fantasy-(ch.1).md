@@ -72,3 +72,13 @@ With that resolve in mind, you continue on.
 
 ## *Nesting*
 
+You find yourself on the mountain. It didn't take you all that long to get here despite the many different biomes you had to pass through on your way to its base. And even the climb from the base to where you are now had not been all that difficult.
+
+You just crested the saddle between the two mountain peaks a little while ago, and are now a good way up the side shorter peak. It seemed like a good idea to you to explore this lower peak first before continuing on to the higher one. And not only for the layer of clouds, still above you and still obscuring.
+
+Although, looking around, you see nothing particular of note.
+
+
+
+
+
