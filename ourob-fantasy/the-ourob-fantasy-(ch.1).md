@@ -47,3 +47,28 @@ The egg, just like this place, is definitely beautiful, but you feel no desire t
 You move on.
 
 It's not long after this before you reach the forest border.
+
+Breaking through the edge of the trees, you find that ahead of you seems to be a vantage point that will allow you to have a look over the island. So you approach.
+
+Peering out over the edge, the view is fairly good and you feel like you can see most of the isalnd from here, besides whatever is hidden behind the mountain.
+
+In fact, from here you can see over to the far edge of the island.
+
+Beyond that, you notice a few things.
+
+The mountain itself seems to be at the center of the island. And even from your new vantage point, you still can't see any sign of where the taller peak reaches to in the midst of the clouds.
+
+What has your attention more enraptured at the moment, however, is down below. The surface of the island itself.
+
+Scattered all across it are different biomes, transitioning sharply from one to another at the borders, although still feeling perfectly natural. Over there you see what looks to be a desert. And near it is a deeply tree covered jungle. Further along to the side, a few biomes down, appears to be an icy tundra. And there are many others, including those you do recognize, those you don't, and some that don't seem to make any sense at all.
+
+Behind the mountain, and peeking out just a bit to the side whwere you can see, there seems to be quite a dark region — though the mountain isn't casting a shadow over it — and you feel you can occasionally catch a glimmer of something shimmering like a star in the night sky.
+
+As you look around at all of this, one thing becomes clear: on this whole island, the one thing that stands out as the most unique and prmonent is the mountain. You have the impression that just journeying around through the different regions, you would likely meet with much similar results to your trek trhough the forest.
+
+Perhaps if you climb that mountain, you could find some answers as to just what this place is?
+
+With that resolve in mind, you continue on.
+
+## *Nesting*
+
