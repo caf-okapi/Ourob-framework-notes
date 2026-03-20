@@ -3,6 +3,8 @@
 
 [Ourob Framework](ourob-library-entries/ourob-framework.md)
 
+[Ourob Island](ourob-library-entries/ourob-island.md)
+
 [Ourob Library](ourob-library-entries/ourob-library.md)
 
 [Ourob Nesting Grounds](ourob-library-entries/ourob-nesting-groumds.md)
