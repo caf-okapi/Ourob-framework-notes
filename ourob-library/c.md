@@ -1,8 +1,8 @@
 # C
-[Confidence]()
+[Confidence](ourob-library-entries/confidence.md)
 
-[Conscious Brain (C-Brain)]()
+[Conscious Brain (C-Brain)](ourob-library-entries/conscious-brain.md)
 
-[Contributions (Pillar VII)]()
+[Contributions (Pillar VII)](ourob-library-entries/contributions.md)
 
-[Cringe]()
+[Cringe](ourob-library-entries/cringe.md)
