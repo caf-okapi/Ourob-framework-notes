@@ -1,2 +1,2 @@
 # T
-[Trashing Principle]()
+[Trashing Principle](ourob-library-entries/trashing-principle.md)
