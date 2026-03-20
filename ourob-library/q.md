@@ -1,2 +1,2 @@
 # Q
-[Quality Personality]()
+[Quality Personality](ourob-library-entries/quality-personality.md)
