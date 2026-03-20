@@ -1,6 +1,6 @@
 # L
-[Life Partners]()
+[Life Partners](ourob-library-entries/life-partners.md)
 
-[Loneliness]()
+[Loneliness](ourob-library-entries/loneliness.md)
 
-[Losers]()
+[Losers](ourob-library-entries/losers.md)
