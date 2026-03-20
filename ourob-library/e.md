@@ -1,11 +1,11 @@
 # E
-[Eight Pillars]()
+[Eight Pillars](ourob-library-entries/eight-pillars.md)
 
-[Eights Key]()
+[Eights Key](ourob-library-entries/eights-key.md)
 
-[Emotions]()
+[Emotions](ourob-library-entries/emotions.md)
 
-[Emulation (Pillar VI)]()
+[Emulation (Pillar VI)](ourob-library-entries/emulation-pillar.md)
 
-[Environment (Pillar I)]()
+[Environment (Pillar I)](ourob-library-entries/environment-pillar.md)
 
