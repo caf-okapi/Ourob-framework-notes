@@ -1,4 +1,4 @@
 # P
 [Personality]()
 
-[Personalized Ourob System()]
+[Personalized Ourob System]()
