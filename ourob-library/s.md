@@ -1,2 +1,2 @@
 # S
-[Subtraction]()
+[Subtraction](ourob-library-entries/subtraction.md)
