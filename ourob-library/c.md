@@ -1,8 +1,8 @@
 # C
-## Confidence
+[Confidence]()
 
-## Conscious Brain (C-Brain)
+[Conscious Brain (C-Brain)]()
 
-## Contributions (Pillar VII)
+[Contributions (Pillar VII)]()
 
-## Cringe
+[Cringe]()
