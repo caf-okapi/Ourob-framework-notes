@@ -1,6 +1,6 @@
 # N
-[Normal Line]()
+[Normal Line](ourob-library-entries/normal-line.md)
 
-[Normal-Flow]()
+[Normal-Flow](ourob-library-entries/normal-flow.md)
 
-[Normalization]()
+[Normalization](ourob-library-entries/normalization.md)
