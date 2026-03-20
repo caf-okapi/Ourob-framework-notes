@@ -12,3 +12,5 @@
 [Ourob Personality](ourob-library-entries/ourob-personality.md)
 
 [Ourobs](ourob-library-entries/ourobs.md)
+
+[Ourob Weapons](ourob-library-entries/ourob-weapons.md)
