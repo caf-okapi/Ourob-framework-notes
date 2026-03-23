@@ -1,4 +1,6 @@
 # O
+[________'_ Wish](________'_-wish.md)
+
 [Ourob Fantasy](ourob-library-entries/ourob-fantasy.md)
 
 [Ourob Framework](ourob-library-entries/ourob-framework.md)
