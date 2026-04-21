@@ -14,11 +14,11 @@ The Ourob Framework is designed to be a rational and comprehensive framework for
 
 [Introduction](/eights-intro.md)
 
-[Ourob Fantasy](ourob-fantasy/the-ourob-fantasy-(ch.1).md)
+[Ourob Fantasy](ourob-fantasy/intro-page.md)
 
-[Eights System](/eights-system/index.md)
+[Eights System](/eights-system/intro-page.md)
 
-[Ourob Library](/ourob-library/index.md)
+[Ourob Library](/ourob-library/intro-page.md)
 
 [Thinking and Other Ideas](/thinking-and-other-ideas/index.md)
 
