@@ -28,4 +28,4 @@
 - [Y](y.md)
 - [Z](z.md)
 
-[Intro Page](intro-page.md) | Index | [#]()
+[Intro Page](intro-page.md) | [Home](/index.md) | [#]()
