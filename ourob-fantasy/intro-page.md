@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Ourob Fantasy</h1>
-<img src="/files/o-egg.png" width="150" height="150" />
+<img src="https://github.com/caf-okapi/Ourob-framework-notes/blob/main/files/o-egg.png?raw=true" width="150" height="150" />
 </div>
 
 [Index](index.md)
