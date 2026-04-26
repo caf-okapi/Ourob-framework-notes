@@ -22,4 +22,4 @@ And, *Why is it called the 'Ourob Framework'*, you ask? We'll get to that later.
 
 Now, say hello to the rest of everyone for me!
 
-The framework begins... 
+The framework [begins...](ourob-fantasy/the-ourob-fantasy-(ch.1).md) 
