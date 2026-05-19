@@ -1,5 +1,5 @@
 # O
-[________'_ Wish](________'_-wish.md)
+[________'_ Wish](ourob-library-entries/________'_-wish.md)
 
 [Ourob Fantasy](ourob-library-entries/ourob-fantasy.md)
 
