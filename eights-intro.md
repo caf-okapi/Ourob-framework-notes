@@ -22,4 +22,4 @@ So! Pretty soon it'll be time for you to meet with everyone else and get on you 
 
 And, *Why is it called the 'Ourob Framework'*, you ask? We'll get to that later.
 
-Before that, first we'll have to [start with explaining...](eights-intro-2.md)
+Before that, we'll first have to [start with explaining...](eights-intro-2.md)
