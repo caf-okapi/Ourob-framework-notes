@@ -9,6 +9,10 @@ As mentioned before, this is a Framework of personality, behavior, and actions, 
 
 So, for those who agree that these two bases are the priorities of life, this Framework may be somewhat useful. And for those who don't, maybe not so much ...
 
+Hm, what else? ... Oh, yes. So. We (myself, and my friends who will be introduced later) have discussed and come to a conclusion on one important point. That: this isn't like a philosophy, or anything. It's more like a collection of facts, observations, speculations, sand the like. (So, ideally, it is looked at and used as such).
+
+Which brings me to our next point.
+
 
 ----
 
