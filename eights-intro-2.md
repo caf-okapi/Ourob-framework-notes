@@ -21,6 +21,12 @@ First, starting with the sections of the book — there are 2 main sections: The
 
 The purposes for each will be introduced as you get to them. (Feel free to read this book in order or jump around to wherever you would like.)
 
+The next upcoming section is the Eights System. I'd say it's the more practically applicable of the main sections.
+
+So, I'm looking forward to seeing how you enjoy the Framework and book. As I said before, one of my friends will take over in guiding the next section.
+
+Good luck, have fun (and see you on the other side ...)
+
 
 ----
 
