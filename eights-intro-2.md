@@ -15,6 +15,12 @@ Which brings me to our next point. This Framework is full of principles, of whic
 
 Hm, hmm ... I suppose next we can go into the details of the actual Framework. Indeed, indeed.
 
+First of all, throughout this book, you'll meet several of my friends who will introduce and guide you through the different sections. (They will also hopefully be able to help answer several questions I won't be able to answer right here or that you may come up with later.)
+
+First, starting with the sections of the book — there are 2 main sections: The Eights System and the Ourob Library.
+
+The purposes for each will be introduced as you get to them. (Feel free to read this book in order or jump around to wherever you would like.)
+
 
 ----
 
