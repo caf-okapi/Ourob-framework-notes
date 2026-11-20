@@ -11,7 +11,9 @@ So, for those who agree that these two bases are the priorities of life, this Fr
 
 Hm, what else? ... Oh, yes. So. We (myself, and my friends who will be introduced later) have discussed and come to a conclusion on one important point. That: this isn't like a philosophy, or anything. It's more like a collection of facts, observations, speculations, sand the like. (So, ideally, it is looked at and used as such).
 
-Which brings me to our next point.
+Which brings me to our next point. This Framework is full of principles, of which the following is one of the most important (well, actually, they mostly all are, so ...): the 'Trashing Principle'. In short, if there's something in this Framework you find you don't like or don't agree with, whatever the reason, then feel free to throw it away. This entire Framework is designed to be mostly entirely modular, and no part should depend or rely on any others unless otherwise stated later on. (As well, almost everything in this Framework should be self-observable and self-confirmable. So anyone should be able to check if the things said are accurate.)
+
+Hm, hmm ... I suppose next we can go into the details of the actual Framework. Indeed, indeed.
 
 
 ----
