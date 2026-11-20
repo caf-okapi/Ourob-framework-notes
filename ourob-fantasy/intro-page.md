@@ -3,4 +3,4 @@
 <img src="https://github.com/caf-okapi/Ourob-framework-notes/blob/main/files/glow%20o%20egg.GIF?raw=true" width="150" height="150" />
 </div>
 
-[Index](index.md)
+[Index](index.md) | [Ch. 1](the-ourob-fantasy-ch1.md)
