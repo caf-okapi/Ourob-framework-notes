@@ -17,3 +17,8 @@ The Ourob serves as an imaginary tool and a partner that represents how far you 
 Though, as it stands now, we have not yet started in the development of the Personalized System, and if you accept ...
 
 One of the things that stands equal among people who take on the Ourob Framework is that everyone starts with an Egg; the Ourob Egg. And everything develops from there. To accept taking on building your Personalized Ourob System is to accept your Ourob Egg. And your System's development — most importantly the development of your personality — is your Ourob's development, which will happen in distinct stages — but we will get to that later.
+
+Also, there is no pressure for it. You can put aside your Ourob Egg at any time. If you ever wish to put aside developing your Personalized Ourob System (or the Ourob Framework), everyone has an Ourob Egg that's always and specifically for them from the time they are born (as a part of the analogy); the chance to develop the ideas and the systems in this Framework. And when they're not with you, they go back to ...
+
+Anyway, that is about the sum of your Ourob, and of the Personalized Ourob System; the practical aspect. Your line and pathway to winning.
+
