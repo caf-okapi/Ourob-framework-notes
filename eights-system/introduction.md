@@ -13,3 +13,7 @@ If you choose, we will be designing it together.
 The Ourob first. The Ourob is an analogy. It is a lifeform that represents your personality and lifestyle, and everything that will be built up with your Personalized Ourob System. And it can be anything you want it to be — whatever suits your thinking or imagination.
 
 The Ourob serves as an imaginary tool and a partner that represents how far you progress in the Ourob Framework and how far your Personalized System has developed. As you develop through the Ourob Framework, your Ourob will develop through its various stages as well (more on that later).
+
+Though, as it stands now, we have not yet started in the development of the Personalized System, and if you accept ...
+
+One of the things that stands equal among people who take on the Ourob Framework is that everyone starts with an Egg; the Ourob Egg. And everything develops from there. To accept taking on building your Personalized Ourob System is to accept your Ourob Egg. And your System's development — most importantly the development of your personality — is your Ourob's development, which will happen in distinct stages — but we will get to that later.
