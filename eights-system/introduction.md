@@ -76,4 +76,6 @@ It's these _#_ we will be building the Personalized System from.
 
 The System building process, we've divided into phases, from the things that are most likely the easiest (to understand and implement) to the more likely advanced or difficult Ourob Framework tools. There are _#_ Phases total, which will be spaced and introduced intermittently throughout the book.
 
-We will start, naturally, from Phase I.
+We will start, naturally, from Phase I. Taking on Phase I of the Eights System will be taking on your Ourob Egg. And everything will develop from there.
+
+If you are ready to begin with Phase I, it will be starting now. Otherwise, you are always welcome to go over and visit the Library.
