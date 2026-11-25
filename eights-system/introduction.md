@@ -72,3 +72,8 @@ There are these _#_, primarily:
 - E___
 - the Reminder, Reminder Line, and Emergency Reminder Line (e. reminder line)
 
+It's these _#_ we will be building the Personalized System from.
+
+The System building process, we've divided into phases, from the things that are most likely the easiest (to understand and implement) to the more likely advanced or difficult Ourob Framework tools. There are _#_ Phases total, which will be spaced and introduced intermittently throughout the book.
+
+We will start, naturally, from Phase I.
