@@ -22,7 +22,7 @@ Also, there is no pressure for it. You can put aside your Ourob Egg at any time.
 
 Anyway, that is about the sum of your Ourob, and of the Personalized Ourob System; the practical aspect. Your line and pathway to winning.
 
-To describe the Personalized Ourob System, in following the Ourob Framework it would be your primary tool for winning. More specifically, it would be the unified collection of all the tools you need to win. And that brings us to the core of the Ourob Framework. We've talked about winning and about practical steps and actions. In reality, those are what are needed to win. But what do you actually have to do? What actual steps do you take to achieve the personal and happiness?
+To describe the Personalized Ourob System, in following the Ourob Framework it would be your primary tool for winning. More specifically, it would be the unified collection of all the tools you need to win. And that brings us to the core of the Ourob Framework. We've talked about winning and about practical steps and actions. In reality, those are what are needed to win. But what do you actually have to do? What actual steps do you take to achieve the personal security and happiness?
 
 That is why the core of the Ourob framework is the
 
