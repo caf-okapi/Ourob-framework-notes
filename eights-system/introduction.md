@@ -56,10 +56,19 @@ As we understand it, these Eight Pillars should encompass everything one needs t
 The Eight Pillars are designed to, together, cover and address every aspect of life. And each Pillar is designed to meet _#_ purposes in regard to its subject.
 
 - *To explain the Involuntary-Brain (i-brain) needs with regard to the subject (normal-flow)*
-- *To explain the practical needs with regard to the subject (survivability)*
+- *To explain the ___ needs with regard to the subject (survivability)*
 - *To be a collection of "weapons" for addressing the above-mentioned needs* 
 
 I will explain in more detail about the particular subject of each Pillar later on when we work them into your Personalized System.
 
 *(a quick note - we will be referring to 'tools' in the Ourob Framework alternately as 'weapons' as well. This is very important and will tie into the "Subtractive Principle" we will introduce later.)*
+
+Now, the Pillars will make the practical content of the Personalized System; so now it's time to talk about the actual parts of it.
+
+There are these _#_, primarily:
+
+- Tasks List and Sheet
+- To-Dos List
+- E___
+- the Reminder, Reminder Line, and Emergency Reminder Line (e. reminder line)
 
