@@ -32,3 +32,30 @@ That is why the core of the Ourob framework is the
 </div>
 
 *(and a little bit outside of them.)* The Eight Pillars are everything that make up the Ourob Framework. They encompass everything one needs and would use to win. And everything one would need to consider as well. Keep in mind, however, that these all are our personal judgements; so feel free to discard and throw away anything as you decide.
+
+In order, they are:
+
+I. 
+ 
+II. 
+  
+III. 
+
+IV. 
+
+V. 
+
+VI. 
+
+VII. 
+
+VIII. 
+
+As we understand it, these Eight Pillars should encompass everything one needs to win. (They will also be what you use to build your Personalized Ourob System.)
+
+The Eight Pillars are designed to, together, cover and address every aspect of life. And each Pillar is designed to meet _#_ purposes in regard to its subject.
+
+- *To explain the Involuntary-Brain (i-brain) needs with regard to the subject (normal-flow)*
+- *To explain the practical needs with regard to the subject (survivability)*
+- *To be a collection of "weapons" for addressing the above-mentioned needs* 
+
